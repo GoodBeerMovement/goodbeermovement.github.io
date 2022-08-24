@@ -4,4 +4,4 @@
 
 layout: home
 ---
-[<img src="/images/GBMLogo.png" title="Goto goodbeermovement on Instagram..." height="80%" width="80%">]https://www.instagram.com/goodbeermovement)
+[<img src="/images/GBMLogo.png" title="Goto goodbeermovement on Instagram..." height="80%" width="80%">](https://www.instagram.com/goodbeermovement)
